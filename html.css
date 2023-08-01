@@ -1,0 +1,16 @@
+.para{
+    background-color: aqua;
+    color: green;
+}
+#border tr th td{
+      background-color: rgb(51, 16, 207);
+       border: 2px solid red;
+}
+#bt2 tr th td{
+    background-color: rgb(113, 240, 240);
+    border: 5px solid;
+}
+.bt3,tr,th,td{
+    border: 3px solid green;
+    border-collapse: collapse;
+}
